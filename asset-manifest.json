@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/route-task/static/css/main.4487d355.css",
+    "main.js": "/route-task/static/js/main.0822d5bb.js",
+    "static/js/453.2eb54c46.chunk.js": "/route-task/static/js/453.2eb54c46.chunk.js",
+    "static/media/logo.svg": "/route-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/route-task/index.html",
+    "main.4487d355.css.map": "/route-task/static/css/main.4487d355.css.map",
+    "main.0822d5bb.js.map": "/route-task/static/js/main.0822d5bb.js.map",
+    "453.2eb54c46.chunk.js.map": "/route-task/static/js/453.2eb54c46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4487d355.css",
+    "static/js/main.0822d5bb.js"
+  ]
+}
